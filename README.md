@@ -1,1 +1,1 @@
-# basic-CRUD
+# basic-CRUD This project allows users to edit their profile information by displaying their existing data in a form and updating it in the database using a secure prepared statement. After submitting the form, the system updates the record and shows a success or error message based on the result.
